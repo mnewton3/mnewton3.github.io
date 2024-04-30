@@ -1,8 +1,4 @@
-<html>
 
- <head></head>
- 
- <body>
  # maxs website
 
 
@@ -25,6 +21,3 @@ checklist
  - [x] add to index html of hello world
 
 
-</body>
-
-</html>
