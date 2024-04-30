@@ -1,5 +1,11 @@
 <html>
-# maxs website
+
+ <head></head>
+ 
+ <body>
+ # maxs website
+
+
 
 
 ![broski](https://i.ytimg.com/vi/DXhW2Sww380/maxresdefault.jpg)
@@ -18,5 +24,7 @@ checklist
        
  - [x] add to index html of hello world
 
+
+</body>
 
 </html>
