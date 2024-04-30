@@ -1,11 +1,4 @@
-<html>
-
-<head>
-</head>
-
-<body>
-
-<h1>maxs website</h1>
+# maxs website
 
 
 ![broski](https://i.ytimg.com/vi/DXhW2Sww380/maxresdefault.jpg)
@@ -15,9 +8,13 @@
 <h5>checklist</h5>
 
  - [x] github
+       
  - [ ] repository
+       
  - [ ] image
+       
  - [ ] link to hello world
+       
  - [ ] add to index html of hello world
 
 
@@ -48,9 +45,3 @@
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿</h4>
 
 
-</body>
-
-
-
-
-</html>
