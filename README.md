@@ -1,9 +1,6 @@
 
  # maxs website
 
-
-
-
 ![broski](https://i.ytimg.com/vi/DXhW2Sww380/maxresdefault.jpg)
 
 [edwinnsphinxcat](https://skuxdlx.github.io/edwinnsphinxcat/)
