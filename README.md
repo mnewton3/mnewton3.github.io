@@ -1,20 +1,23 @@
+<html>
+<head>
 
- # maxs website
+  <style>
+     h1 {text-align: center;}
+     
+     p {text-align: center;}
 
-![broski](https://i.ytimg.com/vi/DXhW2Sww380/maxresdefault.jpg)
+    </style>  
 
-[edwinnsphinxcat](https://skuxdlx.github.io/edwinnsphinxcat/)
-
-checklist
-
- - [x] github
-       
- - [x] repository
-       
- - [x] image
-       
- - [x] link to hello world
-       
- - [x] add to index html of hello world
+ 
+</head>
+<body style="background-color;Green;">
 
 
+
+
+
+
+
+ 
+</body>
+</html>
