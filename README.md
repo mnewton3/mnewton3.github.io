@@ -10,9 +10,10 @@
 
  
 </head>
+
 <body style="background-color;Green;">
 
-
+<h1 style="font-family:cursive,monospace;color:Blue;">skux tutorial</h1>
 
 
 
