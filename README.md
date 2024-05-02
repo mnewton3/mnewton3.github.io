@@ -3,7 +3,7 @@
   <head>
 
     <style>
-h1 {text-align: center; font-size: 50px}
+h1 {text-align: center; font-size: 100px}
 p {text-align: center; font-size: 30px}
 
 
