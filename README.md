@@ -4,7 +4,7 @@
 
 
 
-   <link rel='stylesheet' href='style2.css' type='text/css'/>
+<link rel='stylesheet' href='style2.css' type='text/css'/>
       
 
 
