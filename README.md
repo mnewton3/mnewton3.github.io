@@ -8,7 +8,7 @@ p {text-align: center;}
 </head>
 <body>
 <h1 style="font-family:cursive,monospace;color:Blue;">skux tutorial</h1>
-<br></br>
-<h1 style="font-family:cursive,monospace;"><a href="https://skuxdlx.github.io/edwinnsphinxcat/"> black guy behind a tree </a></h1>
+<br>
+<h3 style="font-family:cursive,monospace;"><a href="https://skuxdlx.github.io/edwinnsphinxcat/"> black guy behind a tree </a></h3>
 </body>
 </html>
