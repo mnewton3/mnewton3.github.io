@@ -3,9 +3,8 @@
   <head>
 
     <style>
-h1 {text-align: center;}
-p {text-align: center;}
-h3 {text-align: center;}
+h1 {text-align: center; font-size: 50px}
+p {text-align: center; font-size: 30px}
 
 
 </style>  
