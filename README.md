@@ -7,7 +7,7 @@
 </head>
 
 <body>
-<a href="https://skuxdlx.github.io/edwinnsphinxcat/"> tutorial page </a></h5>
+<a href="https://skuxdlx.github.io/edwinnsphinxcat/"> tutorial page </a>
 <h1>skux tutorial</h1>
 <img src="https://www.valleyprofile.co.nz/wp-content/uploads/2022/05/P1-VALLEY-PROFILE-Martina-Dairy-Ram-raid-WEB.jpg" alt="skux activitys">
 <p >this is a website containing very useful tips and tricks on how to be as skux as possible. Skux is slang for cool, but its very different from just being "cool" as you will see on these pages.</p>
