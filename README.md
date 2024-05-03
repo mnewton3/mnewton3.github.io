@@ -2,17 +2,14 @@
 
 <head>
 
-
-
 <link rel='stylesheet' href='style2.css' type='text/css'/>
       
-
-
 </head>
 
-  <body>    
+<body>  
         
-<h1>edwinn loves shpinx cat</h1>
+        
+<h1>e=skux tutorial</h1>
 
 
 <a href="https://skuxdlx.github.io/edwinnsphinxcat/"> tutorial page </a>
@@ -22,8 +19,6 @@
 <p> this website is a tutorial on how to be more skux. skux is a slang term for cool, but it is very different from just being cool.</p>
 
 <p>this is an educational website you can share with family and friends, so the can become skux like you</p>
-
-
 
 
 
