@@ -9,7 +9,7 @@
 <body>  
         
         
-<h1>e=skux tutorial</h1>
+<h1>skux tutorial</h1>
 
 
 <a href="https://skuxdlx.github.io/edwinnsphinxcat/"> tutorial page </a>
