@@ -34,12 +34,6 @@
 
  
 
- 
-
-#### [rubric](https://skuxdlx.github.io/skux-rubric)
-
- 
-
 #### [tutorial]( https://skuxdlx.github.io/edwinnsphinxcat/)
 
  
