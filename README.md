@@ -1,22 +1,49 @@
-<html>
 
-<head>
+# max
+
  
-</head>
-
-<body>
-        
-<h1> maxs website</h1>
 
 
-<a href="https://skuxdlx.github.io/edwinnsphinxcat/"> skux tutorial website link </a>
-
-<img src="https://www.valleyprofile.co.nz/wp-content/uploads/2022/05/P1-VALLEY-PROFILE-Martina-Dairy-Ram-raid-WEB.jpg" alt="skux activitys">
+ 
 
 
-</body>
 
-</html>
+ 
 
+### CHECKLIST
 
+ 
+
+- [x] Github account
+
+ 
+
+- [x] Repository
+
+ 
+
+- [x] Image
+
+ 
+
+- [x] Link to webpage
+
+ 
+
+- [x] Add color, font and centre
+
+ 
+
+ 
+
+#### [rubric](https://skuxdlx.github.io/skux-rubric)
+
+ 
+
+#### [tutorial]( https://skuxdlx.github.io/edwinnsphinxcat/)
+
+ 
+ 
+
+#### [Rubric](https://edwinnwong.github.io/Rubric/)
 
