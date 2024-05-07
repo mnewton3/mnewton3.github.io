@@ -39,5 +39,5 @@
  
  
 
-#### [Rubric](https://edwinnwong.github.io/Rubric/)
+#### [Rubric](https://skuxdlx.github.io/skuxrubric/)
 
