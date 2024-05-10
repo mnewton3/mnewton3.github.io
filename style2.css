@@ -19,7 +19,7 @@ body {
 
 
 .topnav a {
-  float: left;
+  align: center;
   display: block;
   color: #Green;
   text-align: center;
