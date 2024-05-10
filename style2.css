@@ -6,7 +6,7 @@
 body {
   margin: 0;
 
-  
+    background-color: #FFFAF0;
 }
 
 
@@ -21,7 +21,7 @@ body {
 .topnav a {
   float: left;
   display: block;
-  color: #f2f2f2;
+  color: #Green;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -29,14 +29,14 @@ body {
 
 
 .topnav a:hover {
-  background-color: #ddd;
-  color: Azure;
+  background-color: #LightSkyBlue;
+  color: Green;
 }
 
 h1 { color: Green; text-align: center; 
  font-family: Helvetica, sans-serif; 
  font-size: 100px; 
- background: LightSkyBlue;
+ background: ADD8E6;
 }
 p { color: Green; 
    text-align: center; 
