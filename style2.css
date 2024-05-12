@@ -51,8 +51,10 @@ h5 { color: Green;
    font-size: 45px; 
   }
 
+
 .center-justified {
     margin: 0 auto;
     text-align: justify;
-    width: 75em;
+    width: 80em;
 }
+
