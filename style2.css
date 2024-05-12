@@ -32,6 +32,8 @@ p { color: Green;
    font-size: 35px; 
   }
 
+body {   background-color: #FFFAF0; }
+
 h5 { color: Green; 
    text-align: center; 
    font-family: Helvetica, sans-serif; 
