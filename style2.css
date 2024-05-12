@@ -50,3 +50,9 @@ h5 { color: Green;
    font-family: Helvetica, sans-serif; 
    font-size: 45px; 
   }
+
+.center-justified {
+    margin: 0 auto;
+    text-align: justify;
+    width: 45em;
+}
