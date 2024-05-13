@@ -1,4 +1,8 @@
 
+body {   
+  background-color: #FFFAF0; 
+}
+
 .topnav {
   overflow: hidden;
   background-color: #333;
@@ -32,7 +36,6 @@ p { color: Green;
    font-size: 35px; 
   }
 
-body {   background-color: #FFFAF0; }
 
 h5 { color: Green; 
    text-align: center; 
